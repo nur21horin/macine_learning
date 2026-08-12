@@ -1,0 +1,4 @@
+model,real_label_stability,shuffled_label_mean,shuffled_label_std,real_percentile_vs_shuffled,signal_detected
+LogisticRegression,0.44642857142857145,0.521875,0.10981931134234764,25.0,False
+RandomForest,0.4087301587301587,0.5787698412698413,0.12300723215940296,12.5,False
+XGBoost,0.511904761904762,0.4886904761904762,0.07151532430170005,62.5,False
